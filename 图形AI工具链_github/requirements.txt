@@ -1,0 +1,10 @@
+PySide6
+torch
+torchvision
+torchaudio
+transformers
+ollama
+scikit-learn
+modelscope
+jieba
+openai
